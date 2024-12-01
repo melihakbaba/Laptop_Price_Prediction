@@ -15,5 +15,6 @@ After comparing the performance of the models, laptop price prediction was made.
  - Bayesian Ridge Regression
  - Neural Network
 
+# Performance Analysis of the Best Model
 
 <img src=https://github.com/melihakbaba/Laptop_Price_Prediction/blob/b249695c374828aa059d83bc53237f6857ae9790/Model_Performance.png/>
